@@ -4,7 +4,7 @@
 </p>
 
 ## About
-I build production AI systems end-to-end — from data and modeling to evaluation, serving, and monitoring.  
+I build production AI systems end-to-end, from data and modeling to evaluation, serving, and monitoring.  
 My core focus is **LLMs and applied ML**: RAG pipelines, agentic workflows, fine-tuning open-source models, and deploying reliable, cost-efficient services.
 
 ## What I do (high level)
